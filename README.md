@@ -5,3 +5,4 @@ This repository contains all the Python codes in ascending order one needs to le
 2. Operators
 3. Lists
 4. Tuples
+5. Dictionary
